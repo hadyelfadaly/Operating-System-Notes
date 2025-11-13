@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "605c4c0b09b643e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "866c143d2ca42833",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d23297b682cb8c47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 1/Chapter 1 Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 1 Notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ffc20d96e955d03e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a273ca67b03cf2b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "980d5725ddd3a356",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "84c6ffe77763ddad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7608ac3a621575f0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "57229fddb98e807c",
+    "type": "split",
+    "children": [
+      {
+        "id": "07d3c9d702bdfa11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d8a763906e6b25b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chapter 1/Chapter 1 Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Chapter 1 Notes"
+            }
+          },
+          {
+            "id": "e76cf5dd9366a747",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Chapter 1/Chapter 1 Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Chapter 1 Notes"
+            }
+          },
+          {
+            "id": "343bc59dddc8538e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e6e94b7039bf7dea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Chapter 1/Chapter 1 Notes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Chapter 1 Notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d23297b682cb8c47",
+  "lastOpenFiles": [
+    "Chapter 1/Chapter 1.pdf",
+    "Chapter 1/Chapter 1 Notes.md",
+    "Pasted image 20251112211529.png",
+    "Pasted image 20251112211154.png",
+    "Pasted image 20251112211002.png",
+    "Pasted image 20251112210720.png",
+    "Pasted image 20251112204252.png",
+    "Pasted image 20251112170647.png",
+    "Pasted image 20251112162245.png",
+    "Pasted image 20251112160320.png",
+    "Pasted image 20251112160304.png",
+    "Pasted image 20251112155330.png",
+    "Untitled.md",
+    "Chapter 1",
+    "New folder"
+  ]
+}
