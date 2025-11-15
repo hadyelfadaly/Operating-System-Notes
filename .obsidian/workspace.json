@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 2/Chapter 2 Notes.md",
+                "file": "Chapter 3/Chapter 3 Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 2 Notes"
+              "title": "Chapter 3 Notes"
             }
           }
         ]
@@ -161,6 +161,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -172,26 +173,33 @@
   },
   "active": "d23297b682cb8c47",
   "lastOpenFiles": [
-    "Chapter 2/Imgs/Pasted image 20251114015021.png",
-    "Pasted image 20251114015021.png",
-    "Chapter 2/Imgs/Pasted image 20251114014628.png",
-    "Pasted image 20251114014628.png",
-    "Chapter 2/Imgs/Pasted image 20251114014120.png",
-    "Pasted image 20251114014120.png",
-    "Chapter 2/Imgs/Pasted image 20251114005415.png",
-    "Pasted image 20251114005415.png",
-    "Chapter 2/Imgs/Pasted image 20251114003122.png",
-    "Chapter 2/Imgs",
-    "Chapter 2/New folder",
-    "Pasted image 20251114003122.png",
-    "Chapter 1/Chapter 1 Notes.md",
+    "Chapter 5/Chapter 5 Notes.md",
+    "Chapter 6/Chapter 6 Notes.md",
+    "Chapter 9 - Copy/Chapter 9.pdf",
+    "Chapter 9 - Copy",
+    "Chapter 8 - Copy/Chapter 8.pdf",
+    "Chapter 8 - Copy",
+    "Chapter 6 - Copy/Imgs",
+    "Chapter 6 - Copy/Chapter 6.pdf",
+    "Chapter 6 - Copy/Chapter 6 Notes.md",
+    "Chapter 6 - Copy",
+    "New Text Document.txt",
+    "Chapter 3/Chapter 3 Notes.md",
+    "Chapter 3/Chapter 3.pdf",
     "Chapter 2/Chapter 2 Notes.md",
+    "Chapter 2/Chapter 2.pdf",
+    "Chapter 1/Chapter 1 Notes.md",
+    "Chapter 5/Imgs/Pasted image 20251116004015.png",
+    "Chapter 5/Pasted image 20251116004015.png",
+    "Pasted image 20251116004015.png",
+    "Chapter 3/Imgs/Pasted image 20251115222649.png",
+    "Chapter 3/Pasted image 20251115222649.png",
+    "Pasted image 20251115222649.png",
+    "Chapter 3/Imgs/Pasted image 20251115220217.png",
+    "Chapter 3/Pasted image 20251115220217.png",
+    "Pasted image 20251115220217.png",
+    "Chapter 3/Imgs/Pasted image 20251115203944.png",
     "README.md",
-    "Operating Systems Concepts - 9th Edition.pdf",
-    "Chapter 1/Chapter 1.pdf",
-    "Pasted image 20251112211529.png",
-    "Untitled.md",
-    "Chapter 1",
-    "New folder"
+    "Untitled.md"
   ]
 }

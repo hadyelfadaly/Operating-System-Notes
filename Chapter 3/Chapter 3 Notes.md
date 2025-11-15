@@ -337,3 +337,5 @@ out = (out + 1) % BUFFER_SIZE;
 
 - Remote Method Invocation (RMI) is a Java mechanism similar to RPCs.
 - RMI allows a Java program on one machine to invoke a method on a remote object.
+![Image](Pasted%20image%2020251115203944.png)
+- Long Term scheduler or Job Scheduler is the one who admits a process from new to ready if the needed resources is available
