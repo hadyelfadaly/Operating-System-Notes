@@ -25,7 +25,7 @@ share: true
      - ready: The process is waiting to be assigned to a processor
      - terminated: The process has finished execution
 
-![Image](Imgs/Pasted%20image%2020251115203944.png)
+![Image](./Imgs/Pasted%20image%2020251115203944.png)
 - Long Term scheduler or Job Scheduler is the one who admits a process from new to ready if the needed resources is available
 - Scheduler dispatch gives it access to use CPU resources (running state)
 
@@ -51,7 +51,7 @@ share: true
     - Device queues – set of processes waiting for an I/O device
 - Processes migrate among the various queues
 
-![Pasted image 20251115220217.png](Pasted%20image%2020251115220217.png)
+![Pasted image 20251115220217.png](./Imgs/Pasted%20image%2020251115220217.png)
 
 # Schedulers
 
@@ -94,7 +94,7 @@ share: true
 - Children can in turn create other processes, forming a tree of processes
 - Each process has a unique process identifier (PID)
 
-![Pasted image 20251115222649.png](Pasted%20image%2020251115222649.png)
+![Pasted image 20251115222649.png](./Imgs/Pasted%20image%2020251115222649.png)
 ### Resource Sharing Options:
 
 When a parent creates a child, resources can be shared in different ways:
