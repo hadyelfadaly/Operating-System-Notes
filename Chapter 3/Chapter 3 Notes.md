@@ -25,7 +25,7 @@ share: true
      - ready: The process is waiting to be assigned to a processor
      - terminated: The process has finished execution
 
-![Image](Pasted%20image%2020251115203944.png)
+![Image](Imgs/Pasted%20image%2020251115203944.png)
 - Long Term scheduler or Job Scheduler is the one who admits a process from new to ready if the needed resources is available
 
 Upload single current active note
