@@ -1,7 +1,3 @@
----
-share: true
----
-git 
 
 # Background – The Problem
 
