@@ -114,7 +114,7 @@ $$
      2. Time slice – each queue gets a certain amount of CPU time which it can schedule amongst its processes; i.e., 80% to foreground in RR, 20% to background in FCFS
 
 - Example:
-![Pasted image 20251230204812.png][./Imgs/Pasted%20image%2020251230204812.png]
+![Pasted image 20251230204812.png](./Imgs/Pasted%20image%2020251230204812.png)
 
 - The first 4 is system processes and the last one can be called other user processes
 
@@ -128,7 +128,7 @@ $$
     - method used to determine when to demote a process
     - method used to determine which queue a process will enter when that process needs service
 - Example:
-![Pasted image 20251230205837.png][./Imgs/Pasted%20image%2020251230205837.png]
+![Pasted image 20251230205837.png](./Imgs/Pasted%20image%2020251230205837.png)
 
 # Multiple-Processor Scheduling
 
@@ -187,7 +187,7 @@ $$
          - Random number generator according to probabilities
          - Distributions defined mathematically or empirically
          - Trace tapes record sequences of real events in real systems 
-![Pasted image 20251230214702.png][./Imgs/Pasted%20image%2020251230214702.png]
+![Pasted image 20251230214702.png](./Imgs/Pasted%20image%2020251230214702.png)
 ## Implementation
 
 - Simulation can be expensive and limited accuracy, A more detailed simulation provides more accurate results, but it also takes more computer time.
