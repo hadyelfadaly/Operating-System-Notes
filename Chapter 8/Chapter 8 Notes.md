@@ -275,7 +275,7 @@ Average Time to access memory considering hits and misses
 
 - Break up the logical address space into multiple page tables, A simple technique is a two-level page table, We then page the page table
 - If we have a 32-bit machine with 1 KB page size, 1 KB = 2^10 bits so 10 bits for offset and 22 for page number which will be divided into a 12-bit page number, a 10-bit page offset. 
-![Pasted image 20260101231525.png](./imgs/Pasted%20image%2020260101231525.png)
+![Pasted image 20260101231525.png](./Imgs/Pasted%20image%2020260101231525.png)
 
 ![Pasted image 20260101231922.png](./Imgs/Pasted%20image%2020260101231922.png)
 
