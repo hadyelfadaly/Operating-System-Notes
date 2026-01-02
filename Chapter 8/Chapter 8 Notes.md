@@ -277,10 +277,11 @@ Average Time to access memory considering hits and misses
 - If we have a 32-bit machine with 1 KB page size, 1 KB = 2^10 bits so 10 bits for offset and 22 for page number which will be divided into a 12-bit page number, a 10-bit page offset. 
 ![Pasted image 20260101231525.png](./imgs/Pasted%20image%2020260101231525.png)
 
-![Pasted image 20260101231922.png](Pasted%20image%2020260101231922.png)
+![Pasted image 20260101231922.png](./Imgs/Pasted%20image%2020260101231922.png)
 
 - Even two-level paging scheme not sufficient, so we do three-level paging
-![Pasted image 20260101232111.png](Pasted%20image%2020260101232111.png)
+![Pasted image 20260101232111.png](./Imgs/Pasted%20image%2020260101232111.png)
+
 
 
 ### Hashed Page Tables
@@ -292,13 +293,13 @@ Average Time to access memory considering hits and misses
     2. the value of the mapped page frame
     3. a pointer to the next element
 - Virtual page numbers are compared in this chain searching for a match, When a match is found, the corresponding physical frame is extracted
-![Pasted image 20260101232506.png](Pasted%20image%2020260101232506.png)
+![Pasted image 20260101232506.png](./Imgs/Pasted%20image%2020260101232506.png)
 
 ### Inverted Page Table
 
 - Rather than each process having a page table and keeping track of all possible logical pages, track all physical pages
-    -  One entry for each real page (frame) of memory
+    - One entry for each real page (frame) of memory
     - Each entry consists of the virtual address of the page stored in that real memory location, with information about the process that owns that page
 - Decreases memory needed to store each page table, but increases time needed to search the table when a page reference occurs, so we can use Use hash table to limit search to one, or at most a few, page-table entries and use TLB to accelerate access.
-![Pasted image 20260101232915.png](Pasted%20image%2020260101232915.png)
+![Pasted image 20260101232915.png](./Imgs/Pasted%20image%2020260101232915.png)
 
