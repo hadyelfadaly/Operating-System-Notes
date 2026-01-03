@@ -246,7 +246,7 @@ do
 
 ## Semaphore
 
-- Synchronization tool that does not require busy waiting and controls access to shared resources using an **integer value**.
+Synchronization tool that does not require busy waiting and controls access to shared resources using an **integer value**.
 - Semaphore S – integer variable and Two standard operations modify S:wait() and signal() Originally called P() and V()
 - Less complicated
 - Can only be accessed via two indivisible (atomic) operations:
@@ -418,6 +418,7 @@ signal(chopstick[ (i + 1) % 5]); //puts right
 } while(true);
 ```
 - Since all chopsticks start at **1**, all 5 philosophers successfully pick up their **left** chopstick. Now EVERY philosopher is holding ONE chopstick. All left chopsticks are taken and All right chopsticks are ALSO taken  (because they are someone else's left chopstick), Each philosopher waits forever for the right chopstick. (DEADLOCK)
+- The Dining Philosophers problem can be solved using semaphores by assigning a semaphore to each philosopher and using a mutex semaphore to protect shared state variables. A philosopher enters the hungry state and is allowed to eat only if both neighboring philosophers are not eating. The mutex ensures mutual exclusion, and philosophers are blocked on their own semaphores until they are allowed to eat. This solution prevents deadlock and starvation while ensuring mutual exclusion.
 
 # Problems with Semaphores
 

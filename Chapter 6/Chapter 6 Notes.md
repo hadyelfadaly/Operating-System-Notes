@@ -140,7 +140,7 @@ $$
 - **Symmetric multiprocessing (SMP)** - Each processor is self-scheduling, all processes in common ready queue, or each has its own private ready queue, Currently, most common
 - **Processor affinity** – the OS tries to keep a process running on the same CPU (cache-friendly)
      - soft affinity or hard affinity
-     - **Processor sets** = a group (subset) of CPUs** that a process or group of processes is allowed to run on.
+     - **Processor sets** = a group (subset) of CPUs that a process or group of processes is allowed to run on.
      - Variations including processor sets
 
 ## Load Balancing
